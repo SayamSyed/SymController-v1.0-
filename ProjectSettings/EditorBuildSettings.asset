@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 51536bf8687868b449371832ef4da77c
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 08363419934ca8440bf7f93a48f47a2e
+  - enabled: 1
+    path: Assets/Scenes/ModeSelection.unity
+    guid: da586165a816632448e9300084d77322
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: b05a7f5e0c1025f4d8b02cf6372fbd65
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 05c5f80d0476dff4aa6a10a67b3628ba
+  - enabled: 1
+    path: Assets/Scenes/SymController.unity
+    guid: 73cc05bd44716114c9d3729ba160caa5
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
